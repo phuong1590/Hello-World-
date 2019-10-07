@@ -3,7 +3,9 @@ Hi guys,just a normal boy from Vietnam who got himself up here to learn how to c
 
 cout << "So I found a 4hrs long video on Youtube teaching me C++,it was so much more entertaining and easier to understand than what my teachers are doing at school" << endl;
 
-cout << "Well they basically showing us how to do this,how to do that.I mean,how to get good grades and make your parents proud while you learn absolute nothing in school but your grades are high af so it's okay.\n";
+cout << "Well they basically showing us how to do this,how to do that.I mean the HOW part,like how to get good grades and make your parents proud while you learn absolute nothing in school but your grades are high af so it's okay.\n";
+
+cout << "But we need the WHY part as well,since when we understand something,we do it way easier.For example,in my class they pronounce cout as count for some reasons,maybe they are bad at English but the main point is,they don't know what it means.It stands for console-out,which should be pronouced c-out.And our teachers didn't teach that,they said just type cout and the plain texts aka string behind it and the << symbol will appear on the damn screen" << endl;
 
 cout << "I don't blame them since they are Asian and we,I think the whole world were taught this way.No one will tell you that going to school will make you less intelligence.They are many type of intelligence and school teaches us the Academy Intelligence.But if we somehow find our own way,we can accomplish many different things.\n";
 
