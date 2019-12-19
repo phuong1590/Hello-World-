@@ -1,5 +1,8 @@
 # Hello-World-
-Hi guys,just a normal boy from Vietnam who got himself up here to learn how to code and stuffs.
+/* Hi guys,just a normal boy from Vietnam who got himself up here to learn how to code and stuffs.*/
+
+#include <iostream>;
+using namespace std;
 
 cout << "So I found a 4hrs long video on Youtube teaching me C++,it was so much more entertaining and easier to understand than what my teachers are doing at school" << endl;
 
